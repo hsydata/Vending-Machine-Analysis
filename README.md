@@ -23,15 +23,16 @@ Kaggle.com Vending_machine_sales Dataset
 •	PowerBI - Creating Reports
 
 ## Data Cleaning/ Preparation
-In the initial data preparation phase, we performed the following tasks:
-1.	Data loading and inspection
-2.	Deleted or modified missing values
-3.	Data cleaning and formatting.
- 
-Figure 1 Before
+
+ Figure 1 Before
 ![image](https://github.com/hsydata/Vending-Machine-Analysis/assets/162429657/905ab645-714c-4de9-bfee-0e31ba331d5d)
 
- 
+ In the initial data preparation phase, we performed the following tasks:
+1.	Data loading and inspection
+2.	Deleted or modified missing values
+3.	Removed unnesecary columns 
+4.	Data cleaning and formatting
+
 Figure 2 After
 ![image](https://github.com/hsydata/Vending-Machine-Analysis/assets/162429657/5033c51c-4e02-4759-b8a2-b202b44f5196)
 

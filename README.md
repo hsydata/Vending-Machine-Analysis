@@ -88,6 +88,7 @@ The possible improvements to be made:
 2.	High level on dashboard. 
 3.	Detailed on pg 2 
 4.	Identify dimensions 
+5.      Start to implement KPIs
 
 
 ## References

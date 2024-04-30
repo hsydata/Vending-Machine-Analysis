@@ -81,7 +81,14 @@ The possible improvements to be made:
 1)	Trouble with converting the location column into a location datatype, to use as a map. 
 2)	We can structure the final dashboard more nicely, using uniform colour palette, sizing of graphs, etc. 
 3)	Can use SQL code to transform the data/table to my liking instead of Excel. 
-4)	Can use graphs to filter. Can alternatively add slicers for months, products and locations, to know what are popular by location. 
+4)	Can use graphs to filter. Can alternatively add slicers for months, products and locations, to know what are popular by location.
+	
+** Personal Improvement Notes
+1.	Slicers
+2.	High level on dashboard. 
+3.	Detailed on pg 2 
+4.	Identify dimensions 
+
 
 ## References
 1.	Stack Overflow

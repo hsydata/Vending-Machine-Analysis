@@ -91,6 +91,10 @@ The possible improvements to be made:
 4.	Identify dimensions 
 5.      Start to implement KPIs
 
+## Personal Improved Dashboard
+![image](https://github.com/hsydata/Vending-Machine-Analysis/assets/162429657/16cd1096-2450-4335-835f-3e0f226d297f)
+
+
 
 ## References
 1.	Stack Overflow

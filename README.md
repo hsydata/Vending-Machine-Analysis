@@ -73,20 +73,21 @@ Based on the analysis, we recommend the following actions:
 
 ## Limitations
 The limitations of this analysis is as follows: 
-The data is of only one year, and any insights isn’t very indicative of the performance of this next year as data across many years would be. We are also limited to only four vending machines.  
-The data has no time for when it was sold, so it is possible that vending machines can by sold out and profits could be lost. Daily granularity. 
+- Data is limited to 1 year, insights are unlikely indicative of the performance across multiple years, nor predictive of the upcoming periods. 
+- Data collected is only for 4 vending machines.  
+- The data has daily granularity. Hourly data may aid in determining popular purchase times, for restock prescriptions.  
 
 ## Improvements
 The possible improvements to be made:
 1)	Trouble with converting the location column into a location datatype, to use as a map. 
 2)	We can structure the final dashboard more nicely, using uniform colour palette, sizing of graphs, etc. 
-3)	Can use SQL code to transform the data/table to my liking instead of Excel. 
+3)	Can use SQL code to transform the data/table instead of Excel. 
 4)	Can use graphs to filter. Can alternatively add slicers for months, products and locations, to know what are popular by location.
 	
 ** Personal Improvement Notes
 1.	Slicers
 2.	High level on dashboard. 
-3.	Detailed on pg 2 
+3.	Detailed on pg 2 / subsequent pages. 
 4.	Identify dimensions 
 5.      Start to implement KPIs
 

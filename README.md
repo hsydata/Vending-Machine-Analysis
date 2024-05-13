@@ -92,7 +92,8 @@ The possible improvements to be made:
 5.      Start to implement KPIs
 
 ## Personal Improved Dashboard
-![image](https://github.com/hsydata/Vending-Machine-Analysis/assets/162429657/16cd1096-2450-4335-835f-3e0f226d297f)
+![image](https://github.com/hsydata/Vending-Machine-Analysis/assets/162429657/2248831c-9d5b-4f87-b468-bbd2a712fa48)
+
 
 
 

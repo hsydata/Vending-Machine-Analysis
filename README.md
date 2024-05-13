@@ -60,10 +60,11 @@ The analysis results are summarised as follows:
  
 ## Recommendations
 Based on the analysis, we recommend the following actions:
-*Assumptions to this problem: 
+
+Assumptions to this problem: 
 - Our capital is constant, 4 vending machines.
 - each vending machine has 4x3 big slots +8x3 smaller slots. 
-- Cost and profit for a given product within a category are approximately the same. *
+- Cost and profit for a given product within a category are approximately the same. 
 
 1.	We recommend keeping the all the categories of food. However, we suggest stocking on high selling products, coca cola, monster energy, red bull, spring water and kit Kats. These products tend to be well known products, stocking with other well known may do well. 
 2.	Public library doubled in sales vs square mall, suggest looking into costs for repositioning poor performing vending machines to public libraries. *Costs of rent space, transportation costs etc to be considered* 

@@ -99,10 +99,9 @@ The possible improvements to be made:
 ![image](https://github.com/hsydata/Vending-Machine-Analysis/assets/162429657/bbdec508-b864-4c57-a807-90a186478954)
 
 ** The data is basic, would like to in future use star schema and make other detailed dashboards for location and category. 
-
-
-
-
+- Addition of slicers.
+- Multi level dashboards, summary for higher ups and detailed for managers.
+  
 
 ## References
 1.	Stack Overflow
